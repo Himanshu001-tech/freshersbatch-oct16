@@ -1,5 +1,5 @@
 Details:
 phone
-name
+Fullname
 Address 
 UPSC
